@@ -1,12 +1,11 @@
 # Loan Prediction System
-Predict if your loan will be accepted or not. This happens by using a labeled data for applicants who applied for a loan before, analyzing these data and using some classification models on it.<br>
+This Project will help you to predict if your loan will be accepted or not.
 
-
-I used :
-- ✅ Logistic Regression
-- ✅ KNN
-- ✅ SVM
-- ✅ ID3
-- ✅ Random Forrest
+Various Machine Learning Algorithms that have been used are :
+ ⭐ Logistic Regression
+ ⭐ K-Nearest Neighbour
+ ⭐ Support Vector Classifier
+ ⭐ ID3 (Iterative Deepening Search)
+ ⭐ Random Forrest Classifier
 
 
