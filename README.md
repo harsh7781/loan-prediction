@@ -9,3 +9,5 @@ Various Machine Learning Algorithms that have been used are :
  ⭐ Random Forrest Classifier
 
 
+You can watch the live demo here:
+<a href="https://harsh7781-loan-prediction-loan-prediction-lyb37j.streamlit.app/" target="_blank">click here</a>
